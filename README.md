@@ -9,4 +9,5 @@ This EDA project seeks to gain insights on the customers' purchasing behaviours 
 This project is beneficial to everyone who’s interested in Marketing/Web Analytics, Product Analytics or looking to work in the retail or ecommerce sector and areas dealing with Customer Analytics.
 
 Here's a preview of the project on SQL Server:
+
 ![Mark1](https://github.com/Strano1/SQL-for-Marketing/assets/124494476/7a164cb1-2651-40c9-89ac-a3862246f6f0)
